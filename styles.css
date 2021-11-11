@@ -56,24 +56,3 @@ footer {
 }
 
 
-@media only screen and (max-width: 620px) {
-  /* For mobile phones: */
-  h1{
-    font-size: 55px;
-  }
-  p{
-    font-size: 27px;
-  }
-  .container{
-    width: 100%;
-  }
-  .dice{
-    width: 100px;
-  }
-
-  .btn{
-    position: relative;
-    left: 23.5%;
-    margin:50px 50px;
-  }
-}
